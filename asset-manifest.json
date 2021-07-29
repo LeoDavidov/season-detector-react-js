@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/season-detector-react-js/static/css/main.ec0b4807.chunk.css",
+    "main.js": "/season-detector-react-js/static/js/main.30de5b57.chunk.js",
+    "main.js.map": "/season-detector-react-js/static/js/main.30de5b57.chunk.js.map",
+    "runtime-main.js": "/season-detector-react-js/static/js/runtime-main.9178c852.js",
+    "runtime-main.js.map": "/season-detector-react-js/static/js/runtime-main.9178c852.js.map",
+    "static/js/2.df8ef135.chunk.js": "/season-detector-react-js/static/js/2.df8ef135.chunk.js",
+    "static/js/2.df8ef135.chunk.js.map": "/season-detector-react-js/static/js/2.df8ef135.chunk.js.map",
+    "index.html": "/season-detector-react-js/index.html",
+    "static/css/main.ec0b4807.chunk.css.map": "/season-detector-react-js/static/css/main.ec0b4807.chunk.css.map",
+    "static/js/2.df8ef135.chunk.js.LICENSE.txt": "/season-detector-react-js/static/js/2.df8ef135.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9178c852.js",
+    "static/js/2.df8ef135.chunk.js",
+    "static/css/main.ec0b4807.chunk.css",
+    "static/js/main.30de5b57.chunk.js"
+  ]
+}
