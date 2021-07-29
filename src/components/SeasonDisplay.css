@@ -1,0 +1,41 @@
+.icon-left {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+
+.icon-right {
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+}
+
+.summer {
+    background: #108dc7; /* fallback for old browsers */
+    background-image: linear-gradient(
+        132.6deg,
+        rgba(71, 139, 214, 1) 23.3%,
+        rgba(37, 216, 211, 1) 84.7%
+    );
+}
+
+.summer i {
+    color: rgba(255, 214, 126, 1);
+}
+
+.winter {
+    background: #6190e8; /* fallback for old browsers */
+    background: linear-gradient(to right, #a7bfe8, #6190e8);
+}
+
+.winter i {
+    color: white;
+}
+
+.season-display {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    color: white;
+}
